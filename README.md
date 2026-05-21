@@ -26,7 +26,7 @@ This project helps users calculate their exact age in years, months, days, and m
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ArpanCodeX/Age-CalC/.git
+git clone https://github.com/ArpanCodeX/Age-CalC.git
 cd age-calculator
 npm install
 npm run dev
